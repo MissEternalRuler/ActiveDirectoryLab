@@ -1,4 +1,4 @@
-<h1>JWipe - Active Directory Home Lab</h1>
+<h1>MissEternal - Active Directory Home Lab</h1>
 
 <h2>Description</h2>
 Here is where I will write out a description about what I am doing.
